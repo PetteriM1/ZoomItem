@@ -1,0 +1,10 @@
+name: ZoomItem
+version: "${pom.version}"
+api: ["1.0.0"]
+author: PetteriM1
+main: idk.plugin.zoomitem.Main
+
+permissions:
+  zoomitem.use:
+    description: "Allows player to use zoom item"
+    default: true
